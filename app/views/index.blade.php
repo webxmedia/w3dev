@@ -81,6 +81,37 @@
         </p>
       </div>
 
+		<table class="table">
+	      <thead>
+	        <tr>
+	          <th>Library</th>
+	          <th>Version</th>
+	          <th>Link</th>
+	          <th>&nbsp;</th>
+	        </tr>
+	      </thead>
+	      <tbody>
+	        <tr>
+	          <td>BxSlider</td>
+	          <td>4.1.2</td>
+	          <td>//w3dev.s3.amazonaws.com/libs/jquery.bxslider/4.1.2/jquery.bxslider.css</td>
+	          <td>Copy</td>
+	        </tr>
+	        <tr>
+	          <td>2</td>
+	          <td>Jacob</td>
+	          <td>Thornton</td>
+	          <td>@fat</td>
+	        </tr>
+	        <tr>
+	          <td>3</td>
+	          <td>Larry</td>
+	          <td>the Bird</td>
+	          <td>@twitter</td>
+	        </tr>
+	      </tbody>
+	    </table>
+
     </div> <!-- /container -->
 
 
